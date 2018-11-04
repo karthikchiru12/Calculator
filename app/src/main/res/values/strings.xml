@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint">Enter What you want to calculate</string>
+    <string name="one">1</string>
+    <string name="percentile">%</string>
+    <string name="square_root">√</string>
+    <string name="square">x2</string>
+    <string name="one_by_x">1/x</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="back">back</string>
+    <string name="plus_minus">+/-</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="product">*</string>
+    <string name="division">/</string>
+    <string name="equal_to">=</string>
+    <string name="dot">.</string>
+    <string name="test">Decimal feature will be implemented in next version</string>
+    <string name="calculator">Calculator</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="popup_text">\t # This calculator is designed by karthikchiru12 \n # In this calculator you can only perform an operation \n\t of only two values per instance \n # Contact : karthikchiru12@gmail.com</string>
+    <string name="close">close</string>
+
+
+
+</resources>
